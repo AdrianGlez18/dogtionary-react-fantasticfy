@@ -1,8 +1,4 @@
-# Dogtionary - Prueba para Fantasticfy de AglezDev
-
-## 07/07/2022
-
-### Enlace de la web: https://dogtionary-fantasticfy-aglezdev.netlify.app/
+<div id="top"></div>
 
 <div align="center">
   <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge" alt="Licence"></a>
@@ -48,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
 <br/>
-<img src="" alt="Screenshot"/>
+<img src="https://github.com/AdrianGlez18/dogtionary-react-fantasticfy/blob/main/src/assets/images/screenshot.png?raw=true" alt="Screenshot"/>
 <br/>
 El reto consistía en utilizar una API para listar diferentes razas de perros en una web con React. Al hacer click en una, se mostraba en una nueva columna en la web.
 Resto de detalles en: <a href="https://github.com/Witocorp-Organization/test-fullstack">Enlace al repositorio</a>
