@@ -86,7 +86,7 @@ Distribuido con la licencia MIT (open source).
 <!-- CONTACT -->
 ## Contacto
 
-Adrián González - [@aglezdev](https://twitter.com/aglezdev) - contact@aglez.dev
+Adrián González - contact@aglez.dev
 
 Portfolio: [aglez.dev](https://aglez.dev)
 
